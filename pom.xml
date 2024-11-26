@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>in.karun</groupId>
 	<artifactId>01-springboot</artifactId>
-	<version>0.0.1-release</version>
+	<version>0.0.1-spanshot</version>
 	<name>01-springboot</name>
 	<description>Demo project using springboot</description>
 	<url/>
